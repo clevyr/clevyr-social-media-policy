@@ -1,13 +1,10 @@
 # Clevyr Social Media Policy (clevyr-social-media-policy)
-Weekly Meetings: 9:30am - 10am / MWF
-
 #### MANAGERS: Jane Doe, John Doe
-
 #### REVIEWERS: This Person, That Person, Some Other Person
 
 ### Social Media Platforms
 
-Service (number of users as of October 2016)
+Service [number of users as of October 2016]
 
 -  Facebook [1,790,000,000]
 -  YouTube [1,000,000,000]
