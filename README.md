@@ -11,20 +11,20 @@ Weekly Meetings: 9:30am - 10am / MWF
 
 Service (number of users as of October 2016)
 
--  [Facebook] [1,790,000,000]
--  [YouTube] [1,000,000,000]
--  [Instagram] [500,000,000]
-- [Twitter] [313,000,000]
-- [Reddit] [234,000,000]
-- [Ask.fm] [160,000,000]
-- [Tumblr] [115,000,000]
--  [Flickr] [112,000,000]
--  [Google+] [111,000,000]
--  [LinkedIn] [106,000,000]
--  [Pinterest] [100,000,000]
--  [VK] [90,000,000]
--  [ClassMates] [57,000,000]
--  [Meetup] [27,500,000]
+-  Facebook [1,790,000,000]
+-  YouTube [1,000,000,000]
+-  Instagram [500,000,000]
+-  Twitter [313,000,000]
+-  Reddit [234,000,000]
+-  Ask.fm [160,000,000]
+-  Tumblr [115,000,000]
+-  Flickr [112,000,000]
+-  Google+ [111,000,000]
+-  LinkedIn [106,000,000]
+-  Pinterest [100,000,000]
+-  VK [90,000,000]
+-  ClassMates [57,000,000]
+-  Meetup [27,500,000]
 
 ## Posting Calendar
 
@@ -93,12 +93,12 @@ Service (number of users as of October 2016)
 
 ##Dribbble
 
-## Goals
+### Goals
 
 - Build high-quality first post - DONE!
 - Post 2x/week
 
-## Post Actions
+### Post Actions
 
 - Post Tu, Th
 - 11:00 am
@@ -125,6 +125,7 @@ Service (number of users as of October 2016)
 - Have finished Thursday before, so post can undergo review process
 - Publish on social media platforms the following Tuesday
 - Suggest starting post around the 15th of prior month.
+
 ##Reddit
 
 ### Goals
