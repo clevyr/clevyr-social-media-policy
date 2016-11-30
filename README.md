@@ -1,13 +1,11 @@
-# clevyr-social-media-policy
-#Clevyr Social Media Policy
-
+# Clevyr Social Media Policy (clevyr-social-media-policy)
 Weekly Meetings: 9:30am - 10am / MWF
 
 #### MANAGERS: Jane Doe, John Doe
 
 #### REVIEWERS: This Person, That Person, Some Other Person
 
-## Social Media Platforms
+### Social Media Platforms
 
 Service (number of users as of October 2016)
 
@@ -26,7 +24,7 @@ Service (number of users as of October 2016)
 -  ClassMates [57,000,000]
 -  Meetup [27,500,000]
 
-## Posting Calendar
+### Posting Calendar
 
 | Monday                                    | Tuesday                                     | Wednesday                 | Thursday                       | Friday                    |
 |-------------------------------------------|---------------------------------------------|---------------------------|--------------------------------|---------------------------|
@@ -43,69 +41,69 @@ Service (number of users as of October 2016)
 | Repeating weekly campaign - or blog post. |                                             |                           | Review social media reach      |                           |
 
 
-##Instagram
+### Instagram
 
-### Goals
+#### Goals
 
 - Post at least 3x/week
 	- 2 pics in progress/finished work
 	- 1 pic random
 - Post to Facebook & Twitter with each post
 
-### Post Actions
+#### Post Actions
 
 - Post MWF
 - 11:00 am
 
-##Facebook
+### Facebook
 
-### Goals
+#### Goals
 
 - Post weekly Medium post
 
-### Post Actions
+#### Post Actions
 
 - Post Tu
 - 11:00 am
 
-##LinkedIn
+### LinkedIn
 
-### Goals
+#### Goals
 
 - Post weekly Medium post
 
-### Post Actions
+#### Post Actions
 
 -  Post Tu
 - 11:00 am
 
-##Twitter
+### Twitter
 
-### Goals
+#### Goals
 
 - Post at least 2x/week
 - Post weekly campaign from Medium
 
-### Post Actions
+#### Post Actions
 
 - Post Tu, Th
 - Throughout day
 
-##Dribbble
+### Dribbble
 
-### Goals
+#### Goals
 
 - Build high-quality first post - DONE!
 - Post 2x/week
 
-### Post Actions
+#### Post Actions
 
 - Post Tu, Th
 - 11:00 am
 
-##MEDIUM
+### MEDIUM
 
-### Goals
+#### Goals
 
 - Publish Blog 1x/month
 	- Short - medium length
@@ -114,26 +112,26 @@ Service (number of users as of October 2016)
 - Publish campaign post 1x/week
 	- On blog post weeks, don’t post campaign post.
 
-### Campaign Actions
+#### Campaign Actions
 
 - Post M
 - Campaigns: Data Series
 
-### Blog Actions
+#### Blog Actions
 
 - Post 1st Monday of each month
 - Have finished Thursday before, so post can undergo review process
 - Publish on social media platforms the following Tuesday
 - Suggest starting post around the 15th of prior month.
 
-##Reddit
+### Reddit
 
-### Goals
+#### Goals
 
 - Advertise our Medium posts.
 - Post 1x/week.
 
-### Post Actions
+#### Post Actions
 
 - Post Th
 - 9:00 am
